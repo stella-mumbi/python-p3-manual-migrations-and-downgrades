@@ -142,7 +142,7 @@ me, that ID is `361dae855898`. It is very likely that your migration's ID is
 different- you can find this ID in the name of the migration file in
 `migrations/versions/` or by parsing through the output from `alembic history`.
 
-Once you have found the correct revision ID, all you need to do is run the
+Once you have found the correct reviion ID, all you need to do is run the
 `alembic downgrade` command:
 
 ```console
